@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "ESP32 Connect to Wifi",
+			"path": "../../ESP32 Wifi Setup/ESP32 Connect to Wifi"
+		}
+	],
+	"settings": {}
+}
